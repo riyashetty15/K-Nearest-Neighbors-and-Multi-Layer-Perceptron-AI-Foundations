@@ -1,4 +1,4 @@
-# a4
+# KNN and Multi layer Perceptron
 ### Part-1 K-Nearest Neighbours:
 From the provided pdf I can understand that k-nearest neighbors is a type of non-parametric supervised machine learning algorithm that is used for both classification and regression tasks. For classification, the principle behind k-nearest neighbors is to find k training samples that are closest in distance to a new sample in the test dataset, and then make a prediction based on those samples. 
 
